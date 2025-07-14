@@ -1,4 +1,4 @@
-# GitHub Action - Android Emulator Runner
+# GitHub Hung Minh Vo Action - Android Emulator Runner
 
 <p align="left">
   <a href="https://github.com/ReactiveCircus/android-emulator-runner"><img alt="GitHub Actions status" src="https://github.com/ReactiveCircus/android-emulator-runner/workflows/Main%20workflow/badge.svg"></a>
